@@ -2,7 +2,7 @@ baseurl = "https://[yourgithubname].github.io"
 languageCode = 'zh-tw'
 title = '戴晨志博士的快樂網站'
 buildDrafts = false 
-theme = "PaperMod"
+theme="PaperMod"
 
 [[menu.main]]
  
